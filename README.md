@@ -258,7 +258,7 @@ This project is licensed under the **MIT License**.
 
 **Hari** — AI & Robotics Developer  
 [![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat-square&logo=github)](https://github.com/Hari0990)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bellamkonda-harithreenath-906665287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bellamkonda-harithreenath-906665287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/bellamkonda-harithreenath-906665287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
