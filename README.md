@@ -182,7 +182,7 @@ climate-change-tracker/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/climate-change-tracker.git
+git clone https://github.com/Hari0990/climate-change-tracker.git
 cd climate-change-tracker
 
 # 2. Create and activate a virtual environment
@@ -257,9 +257,9 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 
 **Hari** — AI & Robotics Developer  
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat-square&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat-square&logo=github)](https://github.com/Hari0990)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bellamkonda-harithreenath-906665287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-<p align="center">Made with ❤️ and Python</p>
+<p align="center">Made with ❤️ and Coffee 😁</p>
